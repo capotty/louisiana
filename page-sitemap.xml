@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/alexandria/</loc>
-		<lastmod>2025-02-06T01:03:04+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/kenner/</loc>
-		<lastmod>2025-02-06T01:03:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/lake-charles/</loc>
-		<lastmod>2025-02-06T01:03:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/bossier-city/</loc>
-		<lastmod>2025-02-06T01:03:03+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/monroe/</loc>
-		<lastmod>2025-02-06T01:03:03+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/alexandria/</loc>
+		<lastmod>2025-02-06T22:56:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lake-charles/</loc>
+		<lastmod>2025-02-06T22:56:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bossier-city/</loc>
+		<lastmod>2025-02-06T22:56:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/shreveport/</loc>
-		<lastmod>2025-02-06T01:03:02+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lafayette/</loc>
-		<lastmod>2025-02-06T01:03:02+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/baton-rouge-2/</loc>
-		<lastmod>2025-02-06T01:03:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/natchitoches/</loc>
-		<lastmod>2025-02-06T01:03:01+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/zachary/</loc>
-		<lastmod>2025-02-06T01:03:01+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/hammond/</loc>
-		<lastmod>2025-02-06T01:03:00+00:00</lastmod>
+		<loc>/baton-rouge-2/</loc>
+		<lastmod>2025-02-06T22:56:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/natchitoches/</loc>
+		<lastmod>2025-02-06T22:56:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/west-monroe/</loc>
-		<lastmod>2025-02-06T01:03:00+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/slidell/</loc>
-		<lastmod>2025-02-06T01:03:00+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sulphur/</loc>
-		<lastmod>2025-02-06T01:02:59+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/central/</loc>
-		<lastmod>2025-02-06T01:02:59+00:00</lastmod>
+		<lastmod>2025-02-06T22:56:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/marrero/</loc>
-		<lastmod>2025-02-06T01:02:58+00:00</lastmod>
+		<loc>/hammond/</loc>
+		<lastmod>2025-02-06T22:56:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/northwest-new-orleans/</loc>
-		<lastmod>2025-02-06T01:02:58+00:00</lastmod>
+		<lastmod>2025-02-06T22:55:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/new-iberia/</loc>
-		<lastmod>2025-02-06T01:02:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/new-orleans/</loc>
-		<lastmod>2025-02-06T01:02:57+00:00</lastmod>
+		<lastmod>2025-02-06T22:55:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/baton-rouge/</loc>
-		<lastmod>2025-02-06T01:02:57+00:00</lastmod>
+		<lastmod>2025-02-06T22:55:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/marrero/</loc>
+		<lastmod>2025-02-06T22:55:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-orleans/</loc>
+		<lastmod>2025-02-06T22:55:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
